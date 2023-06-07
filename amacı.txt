@@ -1,1 +1,0 @@
-Kan bağış sistemi Projesi: Kan bağışında bulunan insanların, kan bağışı isteyen insanların bilgilerini alarak sistem tutan, hangi hastanelerde muhafaza edildiğini gösteren ve aynı zamanda bir yönetici rolününde sistemdeki tüm bilgilere erişebileceği, düzenleme yapabileceği, log kayıtlarına ulaşabileceği bir veri tabanlı internet sitesi. 
